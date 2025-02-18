@@ -109,7 +109,7 @@ else:
 print("*************************************")
 
 if sayi1 <= sayi2:  #iki if ayrı algılanır 
-    print("Sayi 1 sayi 2'den kucuk veya esıttir.") 
+    print("Sayi 1 sayi 2'den kucuk veya esittir.") 
 if sayi1 == sayi2:  # bu dsa ayrı algılanır ve else ile bağlantısı olan kod satırı budur
     print("iki sayi esittir.")
 else:
